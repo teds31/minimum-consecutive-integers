@@ -20,7 +20,6 @@ def minimum_consecutive_integers(array)
 
   puts inner_values.length
 end
-
 minimum_consecutive_integers([1, 3])
 minimum_consecutive_integers([2, 5])
 minimum_consecutive_integers([-1, 4])
